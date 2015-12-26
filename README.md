@@ -1,9 +1,6 @@
 # 主从节点通信设计
  
 摘要：通过boost.MPI实现了主节点广播任务、从节点接受任务，以及主节点阻塞地等待从节点完成任务。  
-作者：王琦  
-日期：2015-12-26  
-代码下载：[我的Github](https://github.com/stephenwww/master_and_slave)   
 <br>
 
 ## I. 安装boost
